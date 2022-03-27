@@ -1,0 +1,3 @@
+[submodule "lib/llama"]
+	path = lib/llama
+	url = git@github.com:freddylist/llama.git

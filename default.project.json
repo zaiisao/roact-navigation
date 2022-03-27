@@ -1,0 +1,9 @@
+{
+	"name": "RoactNavigation",
+	"tree": {
+		"$path": "src",
+		"Libraries": {
+			"$path": "lib"
+		}
+	}
+}
